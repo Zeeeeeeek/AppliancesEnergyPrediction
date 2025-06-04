@@ -79,7 +79,7 @@ fabric.properties
 # that are supposed to be shared within teams.
 
 .idea/
-
+.ipynb_checkpoints
 !.idea/codeStyles
 !.idea/runConfigurations
 
